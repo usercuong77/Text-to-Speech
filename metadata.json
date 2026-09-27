@@ -1,0 +1,6 @@
+{
+  "name": "Chuyển Văn Bản Thành Giọng Nói",
+  "description": "Công cụ đọc văn bản thành giọng nói không giới hạn số từ với hệ thống giọng đọc Nam và Nữ tự nhiên, rõ ràng và mượt mà.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
